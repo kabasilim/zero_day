@@ -16,4 +16,4 @@
 
 * How to use VMs with Vagrant
 
-* What does the command ''uname'' do
+* What does the command **uname** do
